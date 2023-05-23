@@ -61,5 +61,25 @@ public class ADTBag {
         Object[] result2 = bag.toArray();
 
         System.out.println(result2);
+
+
+        BagLinkedObjects<String> linkedNames = new BagLinkedObjects<>();
+        linkedNames.add("Eric");
+        linkedNames.add("Jasmine");
+        linkedNames.add("Joy");
+        linkedNames.add("Jeb");
+        linkedNames.add("Jenavieve");
+        linkedNames.add("Journey");
+        linkedNames.add("Jubilee");
+        linkedNames.add("Eric");
+
+        // this should work with String[] - not sure why it's not
+        result = linkedNames.toArray();
+
+        for( Object name : result){
+            String actuallyThisTypePlease = (String)name;
+            System.out.println(actuallyThisTypePlease);
+        }
+
     }
 }
