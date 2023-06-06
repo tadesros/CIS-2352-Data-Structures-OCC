@@ -17,6 +17,8 @@ public class Stacks {
 
         Vector<String> strings = new Vector<String>();
 
+        //wrapping use a class wrap in another class
+
 
 
     }

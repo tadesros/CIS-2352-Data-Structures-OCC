@@ -3,7 +3,7 @@ package stacks;
 import java.util.EmptyStackException;
 
 
-public class LinkedStack implements StackInterface<T>
+public class LinkedStack<T> implements StackInterface<T>
 {
     class Node<T>
     {

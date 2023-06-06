@@ -17,3 +17,7 @@ Same performance for all.
 Space linked is larger -> Hold node and memory address of next node
 
 Adding to back to array ? on average constant worse case N operations
+
+Better with array based storage don't need 2 memory addresses for each node. 
+
+T references. 
