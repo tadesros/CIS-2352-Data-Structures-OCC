@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADTBat/ADTBat.iml" filepath="$PROJECT_DIR$/ADTBat/ADTBat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ADT_NewBag/ADT_NewBag.iml" filepath="$PROJECT_DIR$/ADT_NewBag/ADT_NewBag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CIS2352-Data_Structures-JAVA-OCC.iml" filepath="$PROJECT_DIR$/.idea/CIS2352-Data_Structures-JAVA-OCC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceAndPolymorphism/InheritanceAndPolymorphism.iml" filepath="$PROJECT_DIR$/InheritanceAndPolymorphism/InheritanceAndPolymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2_Generics/Lab2_Generics.iml" filepath="$PROJECT_DIR$/Lab2_Generics/Lab2_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab7-Implement_Comparable/Lab7-Implement_Comparable.iml" filepath="$PROJECT_DIR$/Lab7-Implement_Comparable/Lab7-Implement_Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1_Solution/Project1/Project1.iml" filepath="$PROJECT_DIR$/Project1_Solution/Project1/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveLab/RecursiveLab.iml" filepath="$PROJECT_DIR$/RecursiveLab/RecursiveLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1_Solution/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Project1_Solution/Stacks/Stacks.iml" />
+    </modules>
+  </component>
+</project>
